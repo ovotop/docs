@@ -1,22 +1,20 @@
-# HOME
+# OvO
 ![](img/logo_256.png)
 
+## Why OvO
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+To cutdown your time on app base frame maintain.
 
-## Commands
+## When
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+1. When you create a new app.
+2. When you maintain multi apps.
+3. When you add a common feature.
 
-## Project layout
+## How
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+1. We descrip our common product requirement blocks as scripts.
+2. Assamble app by common frame and common PRs.
 
 # applant = app + plant
 
